@@ -288,3 +288,5 @@ st.altair_chart(
     ),
     use_container_width=True,
 )
+
+st.dataframe(conn)
